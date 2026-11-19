@@ -1,0 +1,34 @@
+﻿# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset lokal
+data/*.csv
+data/*.csv.gz
+data/*.parquet
+data/*.zip
+
+# Model dan artefak eksperimen
+hasil/**/*.cbm
+hasil/**/*.joblib
+hasil/**/*.pkl
+hasil/**/*.csv
+hasil/**/*.json
+hasil/**/*.png
+hasil/**/*.md
+
+# Snapshot dan backup
+hasil/snapshot_sebelum_pipeline/
+*.zip
+
+# Sistem operasi dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# File sementara
+*.tmp
+*.log
