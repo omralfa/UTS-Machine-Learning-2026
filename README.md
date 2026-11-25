@@ -1,4 +1,4 @@
-# UTS Machine Learning 2026
+﻿# UTS Machine Learning 2026
 
 Proyek Ujian Tengah Semester Machine Learning 2026 yang mencakup tiga tugas: regresi kuantil, klasifikasi fraud, dan segmentasi pelanggan.
 
@@ -11,7 +11,7 @@ Proyek Ujian Tengah Semester Machine Learning 2026 yang mencakup tiga tugas: reg
 | Task 3 — Clustering dan anomali | Selesai |
 | Integrasi pipeline | Selesai |
 | Reproduksibilitas lokal | Lulus |
-| Laporan akhir | Dalam pengerjaan |
+| Laporan akhir | Selesai |
 
 ## Struktur Proyek
 
